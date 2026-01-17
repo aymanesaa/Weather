@@ -1,7 +1,6 @@
 # Weather
 A simple weather application that fetches data from an external weather API and caches the results using Redis for better performance.
 
-This is a solution for the Weather API project on https://roadmap.sh/projects/weather-api-wrapper-service
 # Requirements:
 Java 25
 Redis Server
